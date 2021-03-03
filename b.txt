@@ -1,2 +1,2 @@
 b
-second line for b in branch1
+second line for b in branch1 2
