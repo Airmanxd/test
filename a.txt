@@ -1,2 +1,2 @@
 new change in new
-new line from branch1 but now longer
+last change from branch1
